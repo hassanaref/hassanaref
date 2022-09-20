@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">A backend || node js developer from cairo</h3>
 
-- 🔭 I’m currently working on **Nestjs projects**
+- 🔭 I’m currently working on **TypeScript, nestjs, qraphQL, typeorm, postgres projects**
 
 - 🌱 I’m currently learning **TypeScript, nestjs, postgres**
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **hassan.aref159@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nImmXq499W2TV6QePIUl-dKT1RwsA5Yt/view?usp=sharing](https://drive.google.com/file/d/1nImmXq499W2TV6QePIUl-dKT1RwsA5Yt/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AXWOfNErCnhhdxB0A0ptjaKppBpDdLNU/view?usp=drivesdk](https://drive.google.com/file/d/1AXWOfNErCnhhdxB0A0ptjaKppBpDdLNU/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 
